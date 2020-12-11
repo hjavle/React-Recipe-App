@@ -24,7 +24,7 @@ const App = () => {
 
   const updateSearch = e =>{
     setSearch(e.target.value);
-   //console.log(search);
+   
   };
 
   const getSearch = e => {
@@ -47,6 +47,7 @@ const App = () => {
           title={recipe.recipe.label} 
           calories={recipe.recipe.calories}
           image={recipe.recipe.image}
+          ingredients={recipe.recipe.ingredients}
           />
       ))}
     </div>
