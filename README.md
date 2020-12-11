@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Recipe App: ReactJs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 and is  deployed to GitHub pages here: [https://hjavle.github.io/React-Recipe-App](https://hjavle.github.io/React-Recipe-App)
