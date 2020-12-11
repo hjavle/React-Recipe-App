@@ -7,7 +7,7 @@ const App = () => {
   const APP_KEY = '4f3189bfe364ffc16c859da5092d456e';
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState('');
-  const [query, setQuery] = useState('chicken');
+  const [query, setQuery] = useState('salad');
 
   useEffect(()=>{
     getRecipes();
