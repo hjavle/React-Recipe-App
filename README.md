@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-Projectis  deployed to GitHub pages here: [https://hjavle.github.io/React-Recipie-App](https://hjavle.github.io/React-Recipie-App)
+and is  deployed to GitHub pages here: [https://hjavle.github.io/React-Recipe-App](https://hjavle.github.io/React-Recipe-App)
 
 ![](./src/recipe.png)
 
